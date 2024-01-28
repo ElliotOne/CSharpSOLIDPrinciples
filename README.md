@@ -1,4 +1,4 @@
-# CSharpSOLIDPrinciples
+# CSharp SOLID Principles
 
 ## Overview
 
